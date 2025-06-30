@@ -3,7 +3,7 @@
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
-use Payment;
+use App\Models\Payment;
 
 class Card extends Model
 {
